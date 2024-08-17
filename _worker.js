@@ -275,13 +275,11 @@ async function nginx() {
 	   <div class="tips">
 		1. 本服务是为了加速Docker访问,不存储,严禁违反相关法律
 		<br />
-		2. 低价美国Cera服务器,老牌运营商,4-4 50Mbps 1T流量现在只需55/月!
-		<a href="https://t.me/mxdabc">TG联系我</a> 
 		<br /> 
-		3. TG Docker交流群组
+		2. TG Docker交流群组
 		<a href="https://t.me/+MVUqygPYMKc2YzNh">点击加入TG群组</a>
 		<br /> 
-		4. 有问题?请看 
+		3. 有问题?请看 
 		<a href="https://discuz.mxdyeah.top/mxdyeah_discuz_thread-410-1-1.html">Docker镜像问题反馈</a>
 	   </div> 
 	  </div> 
