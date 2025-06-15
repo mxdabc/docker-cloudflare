@@ -5,7 +5,7 @@ let hub_host = 'registry-1.docker.io'
 // Docker认证服务器地址
 const auth_url = 'https://auth.docker.io'
 // 自定义的工作服务器地址
-let workers_url = 'https://cf-docker.mirrors.mxdyeah.top'
+let workers_url = 'https://docker.mxdyeah.top'
 // 屏蔽爬虫UA
 let disallow_spiders = ['netcraft'];
 
